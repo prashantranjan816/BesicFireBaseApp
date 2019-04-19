@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111543301784",
+    "firebase_url": "https://besicfirebaseapp.firebaseio.com",
+    "project_id": "besicfirebaseapp",
+    "storage_bucket": "besicfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111543301784:android:3dd2b13d63fb9e0a",
+        "android_client_info": {
+          "package_name": "com.example.besicfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111543301784-pp8gtoo5gr4d1259e2ma5573ud6j4o8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.besicfirebaseapp",
+            "certificate_hash": "08463ddc015a00298a182581f9e4400352b1b60d"
+          }
+        },
+        {
+          "client_id": "111543301784-r1ar0v1t6ta15bhr1lustrlgcoisv3h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgM2MmBit78hsSuQvh2nrwYOwnV1JV-Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111543301784-r1ar0v1t6ta15bhr1lustrlgcoisv3h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
